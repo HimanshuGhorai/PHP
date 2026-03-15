@@ -2,7 +2,7 @@
  <?php
  $name = "himanshu";// $name is a variable
 
- $age = 23; // $age is a variable
+ $age = 24; // $age is a variable
 
  $_subject = "php"; // $_subject is also a variable;
  
